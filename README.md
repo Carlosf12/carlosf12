@@ -43,4 +43,5 @@ I'm continuously learning and seeking opportunities to collaborate on challengin
 **Connect with me:**
 
 * [LinkedIn](https://www.linkedin.com/)
+*  Email: [figueira.carlos1212@gmail.com](mailto:figueira.carlos1212@gmail.com)
 
