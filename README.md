@@ -35,6 +35,8 @@ I specialize in crafting efficient and reliable backend solutions, with a strong
 <img src="images/javascript-logo.png" width="50"> Javascript
 <br>
 <img src="images/express-logo.png" width="50"> Express
+<br>
+<img src="images/cloudinary-logo.png" width="50"> Cloudinary
 
 I have hands-on experience developing backend systems for e-commerce projects, handling everything from user authentication and data management to payment integrations and real-time updates. I'm committed to writing clean, maintainable code and delivering high-quality solutions.
 
