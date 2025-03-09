@@ -42,5 +42,5 @@ I'm continuously learning and seeking opportunities to collaborate on challengin
 
 **Connect with me:**
 
-* [LinkedIn](www.linkedin.com/in/carlos-eduardo-figueira-214a64275)
+* [LinkedIn](https://www.linkedin.com/)
 
