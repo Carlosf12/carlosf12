@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hello! I'm Carlos Figueira, a passionate backend developer from Venezuela. I thrive on building robust and scalable applications, and I'm always eager to expand my knowledge and explore new technologies.
+I'm Carlos Figueira, a passionate backend developer from Venezuela. I thrive on building robust and scalable applications, and I'm always eager to expand my knowledge and explore new technologies.
 
 **About Me:**
 
@@ -35,6 +35,8 @@ I specialize in crafting efficient and reliable backend solutions, with a strong
 <img src="images/javascript-logo.png" width="50"> Javascript
 <br>
 <img src="images/express-logo.png" width="50"> Express
+<br>
+<img src="images/cloudinary-logo.png" width="50"> Cloudinary
 
 I have hands-on experience developing backend systems for e-commerce projects, handling everything from user authentication and data management to payment integrations and real-time updates. I'm committed to writing clean, maintainable code and delivering high-quality solutions.
 
@@ -42,5 +44,6 @@ I'm continuously learning and seeking opportunities to collaborate on challengin
 
 **Connect with me:**
 
-* [LinkedIn](www.linkedin.com/in/carlos-eduardo-figueira-214a64275)
+* [LinkedIn](https://www.linkedin.com/)
+*  Email: [figueira.carlos1212@gmail.com](mailto:figueira.carlos1212@gmail.com)
 
