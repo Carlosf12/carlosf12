@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hello! I'm Carlos Figueira, a passionate backend developer from Venezuela. I thrive on building robust and scalable applications, and I'm always eager to expand my knowledge and explore new technologies.
+I'm Carlos Figueira, a passionate backend developer from Venezuela. I thrive on building robust and scalable applications, and I'm always eager to expand my knowledge and explore new technologies.
 
 **About Me:**
 
