@@ -1,11 +1,11 @@
 ## Hi there 👋
-
+Hello! My name is Carlos Figueira, I am from Venezuela and I specialize in backend development. I have worked with 
 <!--
 **Carlosf12/carlosf12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-Hello! My name is Carlos Figueira, I am from Venezuela and I specialize in backend development. I have worked with 
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
