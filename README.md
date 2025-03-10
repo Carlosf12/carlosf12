@@ -24,6 +24,7 @@ I specialize in crafting efficient and reliable backend solutions ⚙️, with a
 * <img src="images/express-logo.png" width="50"> **Express:** A minimalist and flexible framework for building web applications and APIs in Node.js.
 * <img src="images/cloudinary-logo.png" width="50"> **Cloudinary:** Leveraging cloud-based media management for optimized image and video handling.
 * <img src="images/oauth-logo.png" width="50"> **OAuth 2.0:** Implementing secure and delegated authorization for third-party applications, such as Google Authentication.
+* <img src="images/render-logo.png" width="50"> **Render:** Utilizing Render's cloud platform for seamless deployment and hosting of web applications. 
 
 **💡 Experience**
 
